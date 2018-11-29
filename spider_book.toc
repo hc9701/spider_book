@@ -1,0 +1,30 @@
+\contentsline {chapter}{前言}{i}{chapter*.1}
+\contentsline {section}{\numberline {0.1}更新说明}{i}{section.0.1}
+\contentsline {section}{\numberline {0.2}写在前面}{i}{section.0.2}
+\contentsline {chapter}{\numberline {1}Python及其编辑工具的下载安装}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Python}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}编辑工具}{1}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Pycharm}{2}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Spyder}{2}{subsection.1.2.2}
+\contentsline {chapter}{\numberline {2}Python概述}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Python的自白}{3}{section.2.1}
+\contentsline {chapter}{\numberline {3}Python语法基础}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Python代码示例}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}模块}{11}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}函数}{12}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}类}{13}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}常用内置数据结构}{14}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}字符串}{14}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}字节}{15}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}列表}{15}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}元组}{17}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}字典}{17}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}集合}{18}{subsection.3.3.6}
+\contentsline {section}{\numberline {3.4}流程控制}{19}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}选择}{19}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}循环}{20}{subsection.3.4.2}
+\contentsline {subsubsection}{for}{20}{section*.3}
+\contentsline {subsubsection}{while}{20}{section*.4}
+\contentsline {subsection}{\numberline {3.4.3}异常处理}{20}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}其它特性}{21}{section.3.5}
+\contentsline {chapter}{\numberline {4}爬虫基础}{23}{chapter.4}
